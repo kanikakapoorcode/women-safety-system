@@ -199,7 +199,7 @@ This project is licensed under the MIT License.
 
 ## 👥 Authors
 
-- Your Name - [GitHub](https://github.com/yourusername)
+- kanikakapoorcode - [GitHub](https://github.com/kanikakapoorcode)
 
 ## 🙏 Acknowledgments
 
@@ -210,7 +210,7 @@ This project is licensed under the MIT License.
 
 ## 📞 Support
 
-For support, email your-email@example.com or open an issue on GitHub.
+For support, email kanikakr823@gmail.com or open an issue on GitHub.
 
 ---
 
