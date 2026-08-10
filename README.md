@@ -1,4 +1,4 @@
-# 🛡️ Women Safety Alert Tracking System
+# 🛡️ StreeSuraksha - Women Safety Alert Tracking System
 
 A comprehensive MERN stack application for women's safety with real-time SOS alerts, guardian notifications, and live location tracking.
 
